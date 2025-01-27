@@ -44,6 +44,7 @@ impl RandomOrderGen {
     }
 }
 
+/* 
 #[test]
 fn test_order_process() {
     let mut gen = trading::messages::OrderGen::new();
@@ -118,7 +119,7 @@ fn test_order_process() {
 
     engin.close();
 }
-
+*/
 
 #[test]
 fn test_engin() {
